@@ -1,0 +1,9 @@
+G:\BusinessRule\BusinessRule.BL\bin\Debug\netstandard2.0\BusinessRule.BL.deps.json
+G:\BusinessRule\BusinessRule.BL\bin\Debug\netstandard2.0\BusinessRule.BL.dll
+G:\BusinessRule\BusinessRule.BL\bin\Debug\netstandard2.0\BusinessRule.BL.pdb
+G:\BusinessRule\BusinessRule.BL\obj\Debug\netstandard2.0\BusinessRule.BL.AssemblyInfoInputs.cache
+G:\BusinessRule\BusinessRule.BL\obj\Debug\netstandard2.0\BusinessRule.BL.AssemblyInfo.cs
+G:\BusinessRule\BusinessRule.BL\obj\Debug\netstandard2.0\BusinessRule.BL.csproj.CoreCompileInputs.cache
+G:\BusinessRule\BusinessRule.BL\obj\Debug\netstandard2.0\BusinessRule.BL.dll
+G:\BusinessRule\BusinessRule.BL\obj\Debug\netstandard2.0\BusinessRule.BL.pdb
+G:\BusinessRule\BusinessRule.BL\obj\Debug\netstandard2.0\BusinessRule.BL.csprojAssemblyReference.cache

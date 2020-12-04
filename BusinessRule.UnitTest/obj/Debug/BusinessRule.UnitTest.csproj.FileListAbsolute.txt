@@ -1,0 +1,16 @@
+G:\BusinessRule\BusinessRule.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\BusinessRule\BusinessRule.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\BusinessRule\BusinessRule.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\BusinessRule\BusinessRule.UnitTest\bin\Debug\BusinessRule.UnitTest.dll
+G:\BusinessRule\BusinessRule.UnitTest\bin\Debug\BusinessRule.UnitTest.pdb
+G:\BusinessRule\BusinessRule.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\BusinessRule\BusinessRule.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\BusinessRule\BusinessRule.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\BusinessRule\BusinessRule.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\BusinessRule\BusinessRule.UnitTest\obj\Debug\BusinessRule.UnitTest.csproj.CoreCompileInputs.cache
+G:\BusinessRule\BusinessRule.UnitTest\obj\Debug\BusinessRule.UnitTest.csproj.CopyComplete
+G:\BusinessRule\BusinessRule.UnitTest\obj\Debug\BusinessRule.UnitTest.dll
+G:\BusinessRule\BusinessRule.UnitTest\obj\Debug\BusinessRule.UnitTest.pdb
+G:\BusinessRule\BusinessRule.UnitTest\obj\Debug\BusinessRule.UnitTest.csprojAssemblyReference.cache
+G:\BusinessRule\BusinessRule.UnitTest\bin\Debug\BusinessRule.BL.dll
+G:\BusinessRule\BusinessRule.UnitTest\bin\Debug\BusinessRule.BL.pdb

@@ -1,0 +1,10 @@
+G:\BusinessRule\BusinessRule\obj\Debug\BusinessRule.csprojAssemblyReference.cache
+G:\BusinessRule\BusinessRule\obj\Debug\BusinessRule.csproj.CoreCompileInputs.cache
+G:\BusinessRule\BusinessRule\bin\Debug\BusinessRule.exe.config
+G:\BusinessRule\BusinessRule\bin\Debug\BusinessRule.exe
+G:\BusinessRule\BusinessRule\bin\Debug\BusinessRule.pdb
+G:\BusinessRule\BusinessRule\bin\Debug\BusinessRule.BL.dll
+G:\BusinessRule\BusinessRule\bin\Debug\BusinessRule.BL.pdb
+G:\BusinessRule\BusinessRule\obj\Debug\BusinessRule.csproj.CopyComplete
+G:\BusinessRule\BusinessRule\obj\Debug\BusinessRule.exe
+G:\BusinessRule\BusinessRule\obj\Debug\BusinessRule.pdb
